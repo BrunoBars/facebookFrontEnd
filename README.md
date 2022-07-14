@@ -9,7 +9,7 @@ Versão Mobile
 
 
 
-versão Site
+versão Site responsivo
 
 ![facebookweb](https://user-images.githubusercontent.com/102559951/179116693-184745d3-e9bf-410c-8303-8b36a8d30f6f.PNG)
 ![facenookwebmodile](https://user-images.githubusercontent.com/102559951/179116702-ac176043-0330-4a13-aa17-860f85e0a158.PNG)
